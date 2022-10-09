@@ -20,6 +20,6 @@ all team worked together  to write  logic code  & fixed error
 
 
 instruction run code:
-1- load weigth &source code 
+1- load weight  &source code 
 2- select source camera 
 3- run command in cmd (python  sourcecode.py)
