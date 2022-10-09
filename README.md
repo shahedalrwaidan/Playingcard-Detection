@@ -12,11 +12,11 @@ load yolo model using pytorch, detect results and connect to webcam using opencv
 Import card in logic play (function description play)
 
 
-Laith abuassoud & Noor 
+Laith abuassoud & Noor alharahsheh  
 write code for play logic and train yolo model to get more precision in detection 
  
  
-all team worked together  to write  logic code  & fix error
+all team worked together  to write  logic code  & fixed error
 
 
 instruction run code:
