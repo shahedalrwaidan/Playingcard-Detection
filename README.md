@@ -19,7 +19,7 @@ write code for play logic and train yolo model to get more precision in detectio
 
 
 ## instruction run code:
-1. download weight  &source code 
+1. download weight  & source code (cardetection.py detection with out change card in round , realtime.py can change card in round )
 2. select source camera  
 3. run command in cmd :
 ```python  sourcecode.py```
