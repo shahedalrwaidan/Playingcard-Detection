@@ -1,11 +1,10 @@
 # cardplay-
-## intruction
+## view project 
 
 cardplay recognition 
 detect type of card and play 13 round of Tarneeb play 
 
-
-Work Team
+##Work Team
 shahed alruwaidan 
 write code using opencv and pytorch
 load yolo model using pytorch, detect results and connect to webcam using opencv to 
