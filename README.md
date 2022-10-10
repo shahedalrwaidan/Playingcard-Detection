@@ -13,7 +13,7 @@ This is the first version of the project, which is still in development.
 
 Noor-Aldeen Alharahshes & Laith abuassoud & shahed alruwaidan :
 1. We generated fresh data by photographing the cards (approximately 10,000 photographs), then using roboflow to augment the images and labeled them.
-2. we trained our yolov5 version (yolov5m) 
+2. we trained our yolov5 version (yolov5m,yolov5s) 
 3. Shahed created a code with opencv and Pytorch that loads our model to detect the card, and she linked the code to the webcam.
 4. Laith and I we wrote the code for the Tarneeb game.
 all team worked together  to write  logic code  & fixed error
