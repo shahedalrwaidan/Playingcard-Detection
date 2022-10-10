@@ -9,7 +9,7 @@ from tkinter import *
 from datetime import datetime
 
 # Get the weights from our custom data traind model (Yolov5s)
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='./yolov5/final_best_laith.pt', force_reload=False)
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='final_best_.pt', force_reload=False)
 
 # Loading image
 starting_time = time.time()
