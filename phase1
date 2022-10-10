@@ -1,0 +1,4 @@
+## card play 
+detection card type using yolov5
+
+''' !python detect.py --weights best.pt --imgsz 416 --source 0 ''' 
