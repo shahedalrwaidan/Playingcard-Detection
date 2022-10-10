@@ -20,11 +20,17 @@ write code for play logic and train yolo model to get more precision in detectio
 ## card play -phase 1
 detection card type using yolov5
 ``` git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
-pip install -r requirements.txt ```
+
+          cd yolov5
+     pip install -r requirements.txt ```
+     
 replace  detect file in yolov5  with detect_new.py 
 
 ``` !python detect_new.py --weights best.pt --imgsz 416 --source 0 ```
+
+
+
+
 
 ## Tarneeb -phase 2 : 
 1. download weight  & source code (cardetection.py detection with out change card in round , realtime.py can change card in round )
